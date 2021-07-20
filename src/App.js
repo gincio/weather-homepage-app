@@ -20,7 +20,7 @@ function App() {
           Learn React
         </a>
       </header>
-      <FontAwesomeIcon icon={ faSun } />
+      <FontAwesomeIcon icon={faSun} />
     </div>
   )
 }
